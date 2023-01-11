@@ -3,7 +3,7 @@ The best the internet has to offer for learning computer science.
 
 ## Start here:
 
-CS61A - Structure and Interpretation of Computer Programs (introductory cs course at berkeley, hard but you will learn a lot if you keep at it.)
+CS61A - Structure and Interpretation of Computer Programs (Introductory CS course at Berkeley, hard but you will learn a lot if you keep at it.)
 https://inst.eecs.berkeley.edu/~cs61a/sp20/
 
 CS61B - Data Structures (Data structures course at Berkley. Programs interact with data, you will learn how with this course. The MOST important course on this guide) https://sp21.datastructur.es/

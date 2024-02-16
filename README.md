@@ -1,6 +1,6 @@
 # super-harsh-guide-to-cs
 
-Hey all, Here is probably my final take on this. I have been like many of us here, trying, failing, switching resources, starting over, giving up and so on... But after so many tries, these are, in my opinions the best the internet has to offer if you are ready to take the learning serious and not just wanting to be a code monkey. All of this is free, yes free, no need to buy a course from a random dude on the internet. For the books, well I'm sure you know, anything can be found on the internet if you dig enough. Just focus one these, no need for more projects, these have more than enough and they are really really challenging. If you manage to finish, you'll be in top 10% of the self-taught people. The textbook part is optional, but you should do it anyway, it will for sure improve your problem solving skills. Don't cheat, trying to find solutions online or such, take your time, it's doable, albeit harder cause you are alone. Finally good luck, well no it's not about luck, more about discipline ...
+Just focus one these, no need for more projects, these have more than enough and they are really really challenging. If you manage to finish, you'll be in top 10% of the self-taught people. The textbook part is optional, but you should do it anyway, it will for sure improve your problem solving skills. Don't cheat, trying to find solutions online or such, take your time, it's doable, albeit harder cause you are alone. Finally good luck, well no it's not about luck, more about discipline ...
 
 Start here:
 
